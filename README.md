@@ -1,8 +1,6 @@
 # INFO-7374-Assignment2
 # IMAGENET64(Dataset)
 
-Individual Report: Part 1
-https://github.com/bhashmifatnani/INFO-7374-Assignment2/blob/master/Assignment2NvidiaReport.pdf
 
 Group Report and observations :
  
