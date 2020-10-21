@@ -5,13 +5,11 @@
 Group Report and observations :
  
 Report: Link to all observations and code details are in the report
-
-https://github.com/bhashmifatnani/INFO-7374-Assignment2/blob/master/Assignment%202%20Team%20Report%20Final%201.pdf
+https://github.com/abhishek291994/Image-Classification-on-Tiny-Imagenet-/blob/master/Assignment%202%20Team%20Report%20Final%201.pdf
 
 
 Comparison tab for experiments: 
-
-https://github.com/bhashmifatnani/INFO-7374-Assignment2/blob/master/comparison%20tab.PNG
+https://github.com/abhishek291994/Image-Classification-on-Tiny-Imagenet-/blob/master/comparison%20tab.PNG
 
 Link to Google Sheets:
 
