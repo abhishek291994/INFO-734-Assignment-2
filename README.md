@@ -1,6 +1,28 @@
 # INFO-7374-Assignment2
 # IMAGENET64(Dataset)
 
+Objective: Image classification problem<br>
+Datasets used: Tiny-ImageNet 200, CIFAR 10
+
+Tasks Performed:
+Task 1: Building a CNN model using Keras framework.
+Dataset: Tiny ImageNet
+
+Task2: Implementation of Autokeras to tune hyperparameters
+Dataset: Tiny Imagenet
+
+Task3: Implementation of Alexnet model in Keras
+Dataset: Tiny Imagenet
+
+Task4: Implementation of pre-trained model Xception
+Dataset: Tiny Imagenet
+
+Task5: Transfer learning using Xception Architecture
+Dataset: CIFAR10
+
+Task6: Fine tuning for model with Xception Architecture
+Dataset: CIFAR10
+
 
 Group Report and observations :
  
