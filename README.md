@@ -5,7 +5,7 @@ Objective: Image classification problem<br>
 Datasets used: Tiny-ImageNet 200, CIFAR 10
 
 <b>Tasks Performed</b>:<br>
-Task 1: Building a CNN model using Keras framework.
+Task 1: Building a CNN model using Keras framework.<br>
 Dataset: Tiny ImageNet
 
 Task2: Implementation of Autokeras to tune hyperparameters<br>
